@@ -41,3 +41,15 @@ OpenCore-0.5.5-RELEASE
 ### 其他：
 
 更新时间：2020-01-31
+#### 单独下载：
+终端里面输入：1.cd 你指定文件夹
+            2.svn checkout https://github.com/shuiyunxc/OC-EFI/trunk/lenovo-R720-15IKBN-OC-055-20200131
+
+A    lenovo-R720-15IKBN-OC-055-20200131/XXX
+A    lenovo-R720-15IKBN-OC-055-20200131/XXXX
+.
+.
+.
+A    lenovo-R720-15IKBN-OC-055-20200131/XXXXX
+
+完成后，就在指定文件夹有你下载的文件。

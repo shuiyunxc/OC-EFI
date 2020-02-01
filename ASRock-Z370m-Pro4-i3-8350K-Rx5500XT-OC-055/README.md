@@ -81,11 +81,18 @@ OpenCore-0.5.5-RELEASE
 
         1.cd 你指定文件夹
         2.svn checkout https://github.com/shuiyunxc/OC-EFI/trunk/ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055/
-A ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055/XXX 
-A ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055XXXX 
+
+A ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055/XXX
+
+A ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055XXXX
+
 .
+
 .
+
 .
+
 A ASRock-Z370m-Pro4-i3-8350K-Rx5500XT-OC-055/XXXXX
+
 
 完成后，就在指定文件夹有你下载的文件。
